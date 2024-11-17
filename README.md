@@ -4,7 +4,7 @@
 <div>
   <h2> Sobre mim: </h2>
     <p>Cursando Análise e desenvolvimento de sistemas no SenacRS📝</p>
-    <p>Data Engineer at V4 Company</p>
+    <p>Data Analyst & Data Engineer  at V4 Company</p>
     <p>Python, Pandas, AWS</p>
     <p>Email para contato: guilherme.arruda1208@gmail.com</p>
 </div>
